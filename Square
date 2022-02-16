@@ -1,0 +1,6 @@
+n=int(input(" enter the value of n"))
+i=0
+While i<n:
+    Print(i*i)
+     i=i+1
+    
